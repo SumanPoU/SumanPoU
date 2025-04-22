@@ -90,7 +90,7 @@ Passionate and detail-oriented Full Stack Developer with over a year of experien
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://i.ibb.co/tp2qrqfm/Cover-Photo-2.png" alt="Banner" width="100%" height="100%" />
+  <img src="/cover-photo.png" alt="Banner" width="100%" height="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suman Acharya</h1>
