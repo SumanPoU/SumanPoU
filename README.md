@@ -90,7 +90,7 @@ Passionate and detail-oriented Full Stack Developer with over a year of experien
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="center">
-  <img src="https://i.ibb.co/tp2qrqfm/Cover-Photo-2.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/tp2qrqfm/Cover-Photo-2.png" alt="Banner" width="100%" height="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suman Acharya</h1>
@@ -113,7 +113,7 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/sumanpou" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -162,15 +162,15 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sumanpou&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=sumanpou&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanpou&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
 </p>
 
@@ -178,7 +178,7 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sumanpou&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
